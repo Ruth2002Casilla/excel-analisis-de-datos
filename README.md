@@ -35,11 +35,12 @@ Desarrollar habilidades en Excel aplicadas a situaciones reales de negocio, desd
 
 ## 📊 Proyectos prácticos
 
-| Proyecto | Descripción |
+| **Proyecto** | **Descripción** |
 |---|---|
-| Mini proyecto Aurincy | Análisis de pedidos, productos e ingresos mediante Excel. |
+| Mini proyecto Aurincy — Semana 1 | Análisis de pedidos, productos e indicadores comerciales mediante fórmulas y funciones de Excel. |
+| Análisis comercial Aurincy — Semana 2 | Proyecto avanzado con 500 registros simulados, tablas dinámicas, dashboard interactivo y recomendaciones estratégicas. |
 
-**Ver proyecto:** [Mini proyecto Aurincy](https://github.com/Ruth2002Casilla/mini-proyecto-aurincy-excel)
+**Ver proyectos:** [Portafolio de proyectos Aurincy](https://github.com/Ruth2002Casilla/mini-proyecto-aurincy-excel)
 
 ## 🛠️ Herramienta
 
